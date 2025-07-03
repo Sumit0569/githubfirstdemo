@@ -1,4 +1,4 @@
 # githubfirstdemo
 This is my first repository
 <br>
-author- Sumit Chauhan
+author- Sumit  Singh Chauhan
